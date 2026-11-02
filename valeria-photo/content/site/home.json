@@ -1,0 +1,12 @@
+{
+  "hero": {
+    "image": "/media/heroMain.webp",
+    "alt": "Мама цілує доньку в осінньому парку",
+    "pos": "50% 50%"
+  },
+  "small": {
+    "image": "/media/heroSmall.webp",
+    "alt": "Дитячі долоні з каштанами",
+    "pos": "50% 50%"
+  }
+}

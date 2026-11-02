@@ -1,0 +1,26 @@
+{
+  "title": "Під Божим захистом",
+  "category": "e",
+  "location": "ЧОРНОМОРСЬК",
+  "description": "День, коли маленьке життя огортають вірою, любов’ю та добрими побажаннями.",
+  "featured": false,
+  "hidden": false,
+  "photos": [
+    {
+      "image": "/media/chr1.webp",
+      "pos": "50% 30%"
+    },
+    {
+      "image": "/media/chr2.webp",
+      "pos": "50% 45%"
+    },
+    {
+      "image": "/media/chr3.webp",
+      "pos": "50% 30%"
+    },
+    {
+      "image": "/media/chr4.webp",
+      "pos": "50% 45%"
+    }
+  ]
+}

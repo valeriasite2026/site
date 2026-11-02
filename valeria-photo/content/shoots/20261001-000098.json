@@ -1,0 +1,30 @@
+{
+  "title": "Перша вчителька",
+  "category": "p",
+  "location": "ЧОРНОМОРСЬК",
+  "description": "Історія про вчительку, яка стає частиною дитинства й залишає теплі спогади на все життя.",
+  "featured": false,
+  "hidden": false,
+  "photos": [
+    {
+      "image": "/media/tch1.webp",
+      "pos": "50% 45%"
+    },
+    {
+      "image": "/media/tch2.webp",
+      "pos": "50% 50%"
+    },
+    {
+      "image": "/media/tch3.webp",
+      "pos": "50% 28%"
+    },
+    {
+      "image": "/media/tch4.webp",
+      "pos": "50% 30%"
+    },
+    {
+      "image": "/media/tch5.webp",
+      "pos": "50% 45%"
+    }
+  ]
+}

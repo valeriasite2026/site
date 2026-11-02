@@ -1,0 +1,30 @@
+{
+  "title": "Між небом і морем — МИ",
+  "category": "f",
+  "location": "САНЖЕЙКА",
+  "description": "Солоний вітер, теплі обійми й моменти, коли весь світ ніби зупиняється для двох. Лише море, небо та почуття, які не потребують зайвих слів.",
+  "featured": false,
+  "hidden": false,
+  "photos": [
+    {
+      "image": "/media/sea1.webp",
+      "pos": "50% 40%"
+    },
+    {
+      "image": "/media/sea2.webp",
+      "pos": "50% 30%"
+    },
+    {
+      "image": "/media/sea3.webp",
+      "pos": "50% 35%"
+    },
+    {
+      "image": "/media/sea4.webp",
+      "pos": "50% 35%"
+    },
+    {
+      "image": "/media/sea5.webp",
+      "pos": "50% 45%"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+/* Додатковий стиль адмінки поверх Decap: заголовки як на сайті */
+body { background: #ECE8DF; }
+[class*="-CollectionTopHeading"], [class*="-SidebarHeading"], [class*="-ListCardTitle"],
+[class*="-CardHeading"], [class*="-GroupHeading"] {
+  font-family: 'Oswald', 'Arial Narrow', sans-serif !important; font-weight: 600 !important;
+  text-transform: uppercase; letter-spacing: .02em;
+}
+[class*="-CollectionTopHeading"] { font-size: 34px !important; }
+[class*="-FieldLabel"] { letter-spacing: .12em !important; font-weight: 500 !important; }
+[class*="-ControlHint"] { font-size: 12px !important; line-height: 1.6 !important; }
+[class*="-AppHeaderContent"]::before {
+  content: ""; width: 34px; height: 34px; margin-right: 14px; flex: none; align-self: center;
+  background: url(../favicon.svg) center / contain no-repeat;
+}
+[class*="-ListCard"] { border-radius: 10px !important; }

@@ -1,0 +1,30 @@
+{
+  "title": "Жіночна пристрасть",
+  "category": "p",
+  "location": "ЧОРНОМОРСЬК, СТУДІЯ",
+  "description": "Студійна зйомка в чорному: впевненість, жіночність і характер у кожному погляді.",
+  "featured": true,
+  "hidden": false,
+  "photos": [
+    {
+      "image": "/media/pers1.webp",
+      "pos": "50% 32%"
+    },
+    {
+      "image": "/media/pers2.webp",
+      "pos": "60% 35%"
+    },
+    {
+      "image": "/media/pers3.webp",
+      "pos": "55% 30%"
+    },
+    {
+      "image": "/media/pers4.webp",
+      "pos": "50% 30%"
+    },
+    {
+      "image": "/media/pers5.webp",
+      "pos": "45% 28%"
+    }
+  ]
+}

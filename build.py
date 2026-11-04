@@ -6,7 +6,7 @@ Locally:  python3 build.py   (needs Pillow and Node.js)
 import json, os, re, shutil, subprocess, datetime, glob
 from PIL import Image, ImageOps
 
-BASE = os.environ.get('SITE_URL', 'https://valeriaphoto.netlify.app').rstrip('/')
+BASE = (os.environ.get('SITE_URL') or 'https://v-milka.com.ua').rstrip('/')
 # Netlify sets URL to the primary domain; prefer it when a custom domain is added
 if os.environ.get('URL') and os.environ.get('CONTEXT') == 'production':
     BASE = os.environ['URL'].rstrip('/')

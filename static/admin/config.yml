@@ -13,8 +13,8 @@ backend:
 local_backend: true
 
 locale: uk
-site_url: https://valeriaphoto.netlify.app
-display_url: https://valeriaphoto.netlify.app
+site_url: https://v-milka.com.ua
+display_url: https://v-milka.com.ua
 logo_url: /favicon.svg
 media_folder: media
 public_folder: /media

@@ -1,0 +1,30 @@
+{
+  "photos": [
+    {
+      "pos": "50% 28%",
+      "image": "/media/dsc02168.jpeg"
+    },
+    {
+      "pos": "50% 50%",
+      "image": "/media/dsc03194.jpeg"
+    },
+    {
+      "pos": "50% 50%",
+      "image": "/media/dsc02358.jpeg"
+    },
+    {
+      "pos": "50% 50%",
+      "image": "/media/dsc03163.jpeg"
+    },
+    {
+      "pos": "50% 50%",
+      "image": "/media/dsc03111.jpeg"
+    }
+  ],
+  "featured": false,
+  "hidden": false,
+  "title": "Найщиріші емоції ",
+  "category": "p",
+  "location": "Чорноморськ,студія",
+  "description": "Коли усмішка говорить більше, ніж слова"
+}

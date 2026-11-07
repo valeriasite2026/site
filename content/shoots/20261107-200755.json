@@ -1,0 +1,34 @@
+{
+  "photos": [
+    {
+      "pos": "50% 50%",
+      "image": "/media/img_3599.jpg"
+    },
+    {
+      "pos": "50% 50%",
+      "image": "/media/img_3660.jpg"
+    },
+    {
+      "pos": "50% 50%",
+      "image": "/media/img_3714.jpg"
+    },
+    {
+      "pos": "50% 50%",
+      "image": "/media/img_3624.jpg"
+    },
+    {
+      "pos": "50% 50%",
+      "image": "/media/img_3586.jpg"
+    },
+    {
+      "pos": "50% 50%",
+      "image": "/media/img_3679.jpg"
+    }
+  ],
+  "featured": false,
+  "hidden": false,
+  "title": "Таїнство Хрещення Давіда",
+  "category": "e",
+  "location": "Чорноморськ",
+  "description": "Таїнство Хрещення Давіда в такий холодний ,але світлий листопад"
+}

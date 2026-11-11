@@ -1,0 +1,30 @@
+{
+  "photos": [
+    {
+      "pos": "50% 50%",
+      "image": "/media/dsc04530.jpeg"
+    },
+    {
+      "pos": "50% 50%",
+      "image": "/media/dsc04335.jpeg"
+    },
+    {
+      "pos": "50% 50%",
+      "image": "/media/dsc04658.jpeg"
+    },
+    {
+      "pos": "50% 50%",
+      "image": "/media/dsc05074.jpeg"
+    },
+    {
+      "pos": "50% 50%",
+      "image": "/media/dsc05115.jpeg"
+    }
+  ],
+  "featured": false,
+  "hidden": false,
+  "title": "Санжійка,сонечко і вона ",
+  "category": "p",
+  "location": "Санжійка",
+  "description": "Такий теплий листопад на Санжійських схилах"
+}
